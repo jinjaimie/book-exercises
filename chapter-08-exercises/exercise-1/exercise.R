@@ -1,4 +1,5 @@
 # Exercise 1: creating and accessing lists
+# Week 2
 
 # Create a vector `my_breakfast` of everything you ate for breakfast
 my_breakfast <- c("cake", "bread")

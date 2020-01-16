@@ -1,4 +1,5 @@
 # Exercise 1: practice with basic R syntax
+# Week 2
 
 # Create a variable `hometown` that stores the city in which you were born
 hometown <- "Palo Alto"
