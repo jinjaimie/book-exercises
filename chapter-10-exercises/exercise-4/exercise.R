@@ -1,5 +1,5 @@
 # Exercise 4: external data sets: Gates Foundation Educational Grants
-# Week 3
+# Week 4
 
 # Use the `read.csv()` functoin to read the data from the `data/gates_money.csv`
 # file into a variable called `grants` using the `read.csv()`

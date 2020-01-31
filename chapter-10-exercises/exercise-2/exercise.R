@@ -1,4 +1,5 @@
 # Exercise 2: working with data frames
+# Week 3
 
 # Create a vector of 100 employees ("Employee 1", "Employee 2", ... "Employee 100")
 # Hint: use the `paste()` function and vector recycling to add a number to the word
