@@ -52,7 +52,7 @@ response <- GET(paste0(base_uri, search_endpoint), query = query_params)
 # Extract the content of the response and convert it from a JSON string into a
 # data frame. 
 data <- content(response, "text")
-result_df <- fromJSON(data)
+result_df <- fromJSON(data)$items
 
 # How many search repos did your search find? (Hint: check the list names to 
 # find an appropriate value).
